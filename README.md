@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jessica Leticia</h1>
-<h3 align="center">A passionate girl about data</h3>
+<h3 align="center">Passionate about data and always eager to learn</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=letverso&label=Profile%20views&color=0e75b6&style=flat" alt="letverso" /> </p>
 
