@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/jessicaleticiabarbosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jessicaleticiabarbosa" height="30" width="40" /></a>
 <a href="https://instagram.com/jessicaleticiab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jessicaleticiab" height="30" width="40" /></a>
-<a href="https://discord.gg/jessbarbosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jessbarbosa" height="30" width="40" /></a>
+<a href="https://discord.gg/users/722966888803729488" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jessbarbosa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
