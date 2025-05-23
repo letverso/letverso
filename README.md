@@ -25,6 +25,18 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=letverso&show_icons=true&locale=en" alt="letverso" /></p>
+<!-- GitHub Stats Card -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=letverso&show_icons=true&locale=en&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=letverso&show_icons=true&locale=en&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=letverso&show_icons=true&locale=en&theme=default" alt="letverso GitHub stats" />
+</picture>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=letverso&" alt="letverso" /></p>
+<br>
+
+<!-- GitHub Streak Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=letverso&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=letverso&theme=default" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=letverso&theme=default" alt="letverso GitHub streak" />
+</picture>
