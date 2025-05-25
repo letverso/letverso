@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=letverso&label=Profile%20views&color=0e75b6&style=flat" alt="letverso" /> </p>
 
-- 🔭 I’m currently working as an data and analytics intern at Itau
+- 🔭 I’m currently working as an **data and analytics intern at Itau**
 
 - 🌱 I’m currently learning **Cloud and software engineering**
 
